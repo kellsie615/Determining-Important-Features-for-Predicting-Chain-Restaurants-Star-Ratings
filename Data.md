@@ -1,0 +1,7 @@
+#### The data used is Yelp's Open Dataset business.json file. This file is too large to add to this repository. You can obtain the business.json file on Yelp's Open Dataset website linked below:
+
+https://www.yelp.com/dataset
+
+#### There are 6 JSON files in the dataset, but this code only needs the yelp_academic_dataset_business.json file.
+
+#### If you have any questions and/or issues regarding downloading the data, please email me at kellsie.s615@gmail.com
